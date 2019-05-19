@@ -1,0 +1,7 @@
+TARGET_BITS="32"
+
+# actions
+# GIT_CLONE=true
+# BUILD_LIBUSB=true
+OPENOCD_CONFIG=true
+OPENOCD_MAKE=true
